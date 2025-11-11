@@ -1,0 +1,19 @@
+# Fichiers objets et exécutables
+*.o
+*.out
+*.exe
+*-Wall
+
+# Vidéos et médias lourds
+*.mkv
+*.mp4
+
+# Dossiers de build ou compilations
+prog/
+gamo/
+ray/
+mon_programme/
+
+# Autres fichiers temporaires
+*.log
+*.DS_Store
